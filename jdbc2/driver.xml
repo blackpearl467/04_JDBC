@@ -16,7 +16,7 @@
 	<entry></entry> : entry K:V 한 쌍
 	-->
 
-	<entry key="driver">oracle.jdbc.diriver.OracleDriver</entry>	
+	<entry key="driver">oracle.jdbc.driver.OracleDriver</entry>	
 
 	<entry key="url">jdbc:oracle:thin:@localhost:1521:XE</entry>
 	
